@@ -1,2 +1,2 @@
 # iklim-de-i-ikli-i
-hava kirliliğini anlayan bir yapay zeka 
+Konu: Ben yapay zeka konusunda hava kirliliğini yapay zekaya hava kirliliğini öğreterek resimler verip hava olumlu mu ya da olumsuz mu diye cevap vermesini isteyeceğim.
