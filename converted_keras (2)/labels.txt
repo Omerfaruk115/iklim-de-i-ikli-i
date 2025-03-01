@@ -1,0 +1,2 @@
+0 hava kirliliği olan 
+1 hava kirliliği olmayan 
